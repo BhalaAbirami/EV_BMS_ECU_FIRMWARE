@@ -13,7 +13,5 @@ void BMS_Scheduler_Init(void);
 void BMS_Scheduler_Run(void);
 void Task_10ms(void);
 void Task_100ms(void);
-uint8_t BMS_SCHEDULER_IsInitialized(void);
-
 
 #endif /* SERVICES_BMS_SCHEDULER_H_ */
