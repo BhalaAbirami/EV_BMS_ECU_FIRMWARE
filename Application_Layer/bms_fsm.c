@@ -4,10 +4,10 @@
  *  Created on: 27-May-2026
  *      Author: ABI
  */
-#include <bootstrap.h>
-#include <contactor_manager.h>
-#include <fault_manager.h>
-#include <precharge_manager.h>
+#include "bootstrap.h"
+#include "contactor_manager.h"
+#include "fault_manager.h"
+#include "precharge_manager.h"
 #include "bms_fsm.h"
 #include "sensor_manager.h"
 static BMS_State_t CurrentState;
