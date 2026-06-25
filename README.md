@@ -45,5 +45,5 @@ Automotive-style Battery Management System (BMS) ECU firmware developed on STM32
 ## STM32 Board
 * STM32F407VGT7
 
-## Software In Loop(SIL)
+## VALIDATION OF CODE
 * Using WOKWI
