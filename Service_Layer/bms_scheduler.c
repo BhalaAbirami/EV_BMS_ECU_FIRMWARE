@@ -58,9 +58,3 @@ void Task_100ms(void)
 	SOC_Manager_Run();
 	SOH_Manager_Run();
 }
-
-uint8_t BMS_SCHEDULER_IsInitialized(void)
-{
-	return BMS_SCHEDULER_Initialized;
-}
-
