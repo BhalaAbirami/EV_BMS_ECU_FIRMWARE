@@ -4,11 +4,11 @@
  *  Created on: 28-May-2026
  *      Author: ABI
  */
-#include <bms_scheduler.h>
-#include <fault_manager.h>
-#include <precharge_manager.h>
-#include <soc_manager.h>
-#include <soh_manager.h>
+#include "bms_scheduler.h"
+#include "fault_manager.h"
+#include "precharge_manager.h"
+#include "soc_manager.h"
+#include "soh_manager.h"
 #include "can_manager.h"
 #include "bms_fsm.h"
 #include "sensor_manager.h"
